@@ -15,5 +15,9 @@
 
 ## 📚 Artigos uteis
 
+- [Página do Frontend Mentor](https://www.frontendmentor.io/challenges/dictionary-web-app-h5wwnyuKFL)
+- [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+
 ## ✒️Autor
 - Guilheme Delarry Rodrigues de Souza
